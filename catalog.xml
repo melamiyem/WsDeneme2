@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://78.187.210.116/AlisWS/AlisWS.asmx" uri="xml-resources/web-service-references/AlisWS/wsdl/78.187.210.116/AlisWS/AlisWS.asmx"/>
+    <system systemId="http://78.187.210.116/AlisWS/AlisWS.asmx?WSDL" uri="xml-resources/web-service-references/AlisWS_1/wsdl/78.187.210.116/AlisWS/AlisWS.asmx.wsdl"/>
+</catalog>
